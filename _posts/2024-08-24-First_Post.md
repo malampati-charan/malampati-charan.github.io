@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Short History of Neary Everything / A Review
+title: A Short History of Neary Everything - A Review
 date: 24-08-2024
 categories: Book-Reviews
 tag: [book, reviews, book-recommendations, recommendations]
