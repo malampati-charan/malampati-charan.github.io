@@ -7,7 +7,7 @@ author: charan
 description: Let's Review "Maybe Love, Maybe Not"!
 image:
     path: "assets/img/post1/mlmn(2).jpeg"
-    alt: front cover
+    alt: Front Cover
 ---
 
 > Maybe Love, Maybe Not  
