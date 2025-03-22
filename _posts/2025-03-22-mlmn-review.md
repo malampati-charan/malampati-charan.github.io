@@ -10,8 +10,6 @@ image:
     alt: front cover
 ---
 
-![Image of front cover of the book](assets/img/post1/mlmn.jpeg)*front cover of the book*
-
 > Maybe Love, Maybe Not  
 > Udai Yadla, India: NotionPress, 2025, 188 pp.  
 
